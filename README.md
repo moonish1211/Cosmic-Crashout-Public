@@ -1,6 +1,9 @@
 # Cosmic Crashout
 Cosmic Crashout is a game that can be played by everyone, designed for quadriplegic individuals by utilizing the Open BCI EEG Headset. This project is made possible by PVNET Advanced Technology Center.
 
+## Article: [For a Good Cause: PV Net students make brain-controlled video game for paraplegics](https://www.dailybreeze.com/2024/11/07/for-a-good-cause-pv-net-students-make-brain-controlled-video-game-for-paraplegics/)
+Details the impact of creating a EEG based game for Quadriplegics and association by PVNet.
+
 ## Abstract
 Cosmic Crashout is a Flappy Bird inspired game using Pygame and integrated EEG data inputs from the Open BCI GUI. This is one of a few games that work with the ganglion board from Open BCI.<br><br>
 
