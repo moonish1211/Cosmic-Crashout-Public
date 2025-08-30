@@ -121,7 +121,7 @@ Another area in which we could improve is the game design aspect. The intention 
 Ted Vegvari: Director of Research Development <br>
 Jill Luna Nomura: EEG Data Analysis Lead, Open BCI Integration Development Lead, Leaderboard Management Integration <br>
 Patrick McGrath: UI & Game strategy Development Lead, BCI Interface Integration & Accessibility Development, Open BCI Integration Development<br>
-Joe Hubor: BCI Interface Integration & Accessibility Development Lead, UI & Game strategy Development, Quality Assurance Testor 2<br>
+Joe Huber: BCI Interface Integration & Accessibility Development Lead, UI & Game strategy Development, Quality Assurance Testor 2<br>
 Tommy Nguyen: EEG Headset Electronic Integration, Visual & Asset Development, Quality Assurance Testor <br>
 Joshua Nwabuzor: Visual & Asset Development, BCI Interface Integration & Accessibility Development<br>
 Mark Segal: UI & Game strategy Development<br>
